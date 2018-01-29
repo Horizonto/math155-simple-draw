@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SimpleDrawModern.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SimpleDrawModern.cpp
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(173): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(190): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(202): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\acsnfs4.ucsd.edu\cifshomes\170\xit014\visual studio 2015\projects\math 155a\simpledrawmodern\source_modified\simpledrawmodern.cpp(208): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  SimpleDrawModernModified.vcxproj -> \\acsnfs4.ucsd.edu\cifshomes\170\xit014\Visual Studio 2015\Projects\Math 155A\SimpleDrawModern\x64\Debug\SimpleDrawModernModified.exe
+  SimpleDrawModernModified.vcxproj -> \\acsnfs4.ucsd.edu\cifshomes\170\xit014\Visual Studio 2015\Projects\Math 155A\SimpleDrawModern\x64\Debug\SimpleDrawModernModified.pdb (Partial PDB)
